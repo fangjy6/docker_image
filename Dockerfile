@@ -6,6 +6,6 @@ RUN pip install seqeval
 
 RUN pip install python-terrier
 
-RUN pip install -q --upgrade git+https://github.com/Georgetown-IR-Lab/OpenNIR
+# RUN pip install -q --upgrade git+https://github.com/Georgetown-IR-Lab/OpenNIR
 
-RUN pip install -q --upgrade git+https://github.com/terrierteam/pyterrier_t5
+# RUN pip install -q --upgrade git+https://github.com/terrierteam/pyterrier_t5
